@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kubernetes, JavaScript/Typescript and * API Stuff
 - 👯 I’m looking to collaborate on Cloud Native Community
 - 🤔 I’m looking for help with json, jq, data visualization, web scrapping, curl, httpie
-- 💬 Ask me about cloud
+- 💬 Ask me about cloud. Azure and GCP are my prefered ones. AWS, CDK and CDK8S are catching my attention as the real ones Infrastructure as code tools. DigitalOcean and ...
 - 📫 How to reach me: I'm on [Twitter (@ampacheco)](https://twitter.com/ampacheco). That's the best way!
 - 😄 Pronouns: he/him/they
 - ⚡ Fun fact: When I am not programming or learning new clooud native tool or api stuff you should find me, trying differents groove on bongo drums or any percussion instrument. 
