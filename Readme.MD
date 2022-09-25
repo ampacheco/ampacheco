@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with json, jq, data visualization, web scrapping, curl, httpie
 - 💬 Ask me about cloud. Azure and GCP are my prefered ones. AWS, CDK and CDK8S are catching my attention as the real ones Infrastructure as code tools. DigitalOcean and ...
 - 📫 How to reach me: I'm on [Twitter (@ampacheco)](https://twitter.com/ampacheco). That's the best way!
-- 😄 Pronouns: he/him/they
 - ⚡ Fun fact: When I am not programming or learning new clooud native tool or api stuff you should find me, trying differents groove on bongo drums or any percussion instrument. 
 
 ![AMPacheco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ampacheco&show_icons=true)
